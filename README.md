@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm current IT-support <br>Fun fact about me is that I listen to Harry potter ever evening before I fall a sleep
+✨ My goal is to create seamleass customer journey with coding
+🌱 Current learning Redux
+ 🤓 Fun fact about me is that I listen to Harry potter ever evening before I fall a sleep
 
 
 ## 🌐 Socials:
