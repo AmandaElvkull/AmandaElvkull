@@ -1,6 +1,6 @@
 # 💫 About Me:
 ✨ My goal is to create seamleass customer journey with coding <br>
-🌱 Current learning Redux <br>
+🌱 Current learning Backend <br>
  🤓 Fun fact about me is that I listen to Harry potter ever evening before I fall a sleep
 
 
